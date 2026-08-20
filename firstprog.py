@@ -1,0 +1,6 @@
+print("hello world")
+print("Hello Mudasir")
+print("I am python")
+print("My name is Mudasir.","I am from Tral ")
+print(23)
+print(2+3)
