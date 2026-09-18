@@ -20,10 +20,11 @@
 # collection.add((92, 34, 32))  # adds the element in set
 # print(collection)
 # collection.remove("mudasir")
+# collection.discard("mudasir")
 # print(collection)  # removes the element from set
 # collection.clear()  # Emptise the set
 # print(collection)
-# collection.pop() # Removes any random value from the set
+# collection.pop() # Removes any random value from the set,so we do not use this
 # print(collection)
 
 set1 = {1, 2, 3, 4, 5, 5, 6}
